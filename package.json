@@ -94,7 +94,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "create-react-context": "^0.2.2",
-    "element-resize-detector": "^1.1.12",
+    "element-resize-detector": "^1.2.1",
     "lodash.isequal": "^4.5.0",
     "memoize-one": "^5.1.1"
   },
